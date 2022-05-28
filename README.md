@@ -1,3 +1,14 @@
+# Uygulama Amaç
+
+Farkli POD'ları tek bir arayuzden yönetebilme olanagı saglaması.
+
+Secilen Pod'a kullanici dogrulamasi saglar ve token tutar. Sayfa her gunllendiginde token dogrulanir.
+
+React Component eklemeler yapilabilir.
+
+API olarak Python Flask kullanilmistir.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
