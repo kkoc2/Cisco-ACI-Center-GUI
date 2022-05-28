@@ -1,12 +1,12 @@
 # Uygulama Amaç
 
-Farkli POD'ları tek bir arayuzden yönetebilme olanagı saglaması.
+Farklı POD'ları tek arayüz ile yönetebilmesi istenmektedir.
 
-Secilen Pod'a kullanici dogrulamasi saglar ve token tutar. Sayfa her gunllendiginde token dogrulanir.
+Secilen Pod'a kullanıcı kimlik doğrulaması sağlanır ve token tutulur. Sayfa her güncellendiğinde token doğrulanır.
 
 React Component eklemeler yapilabilir.
 
-API olarak Python Flask kullanilmistir.
+API olarak Python Flask kullanılmıştır.
 
 
 # Getting Started with Create React App
