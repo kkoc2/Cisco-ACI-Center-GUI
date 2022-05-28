@@ -4,7 +4,7 @@ Farklı POD'ları tek arayüz ile yönetebilmesi istenmektedir.
 
 Secilen Pod'a kullanıcı kimlik doğrulaması sağlanır ve token tutulur. Sayfa her güncellendiğinde token doğrulanır.
 
-React Component eklemeler yapilabilir.
+React için Component eklemeleri yapılabilir.
 
 API olarak Python Flask kullanılmıştır.
 
